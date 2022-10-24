@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% block content %}
+
+        <main class="content">
+            <div class="container-fluid p-0">
+                <form action="{% url 'add-info' %}" method="post">
+                    {% csrf_token %}
+                    <div class="row">
+                            <div class="col-2 col-sm-6 col-xl mt-2 d-flex">
+                                <input type="text" name="company_name" placeholder="company_name" class="form-control" required>
+                            </div>
+                            <div class="col-2 col-sm-6 col-xl mt-2 d-flex">
+                                <input type="file" name="logo" placeholder="logo" class="form-control-file" required>
+                            </div>
+                            <div class="col-2 col-sm-6 col-xl mt-2 d-flex">
+                                <input type="text" name="description" placeholder="description" class="form-control" required>
+                            </div>
+                            <div class="col-2 col-sm-6 col-xl mt-2 d-flex">
+                                <input type="text" name="googleplay" placeholder="googleplay" class="form-control" required>
+                            </div>
+                            <div class="col-2 col-sm-6 col-xl mt-2 d-flex">
+                                <input type="text" name="appstore" placeholder="appstore" class="form-control" required>
+                            </div>
+                            <div class="col-2 col-sm-6 col-xl mt-2 d-flex">
+                                <button type="submit" class="btn btn-primary">Saqlash</button>
+                            </div>
+                    </div>
+                </form>
+            </div>
+        </main>
+
+
+{% endblock %}
+

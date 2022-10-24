@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c691e782-bde1-49e8-ac50-f8badb0cb830" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/.idea/new.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/ads/Форма.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/migrations/0002_alter_ads_category_alter_ads_owner_alter_ads_region_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/migrations/0003_alter_adimage_photo_alter_category_photo_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/view-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/view-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/main/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/olx/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/olx/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/olx/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/olx/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/olx/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/.png_yjlaIuJ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/css/classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-brands-400-1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-brands-400.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-regular-400-1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-regular-400.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-solid-900-1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-solid-900.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/fonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/avatars/avatar-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/avatars/avatar-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/avatars/avatar-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/avatars/avatar-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/avatars/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/brands/bootstrap.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/brands/jquery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/brands/npm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/brands/sass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/brands/webpack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/flags/de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/flags/es.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/flags/nl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/flags/us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/photos/unsplash-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/photos/unsplash-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/photos/unsplash-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/coming-soon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/dashboard-analytics-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/dashboard-analytics.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/dashboard-crypto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/dashboard-default-large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/dashboard-default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/dashboard-e-commerce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/dashboard-social.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/theme-classic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/theme-corporate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/img/screenshots/theme-modern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/static/js/settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/templates/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/templates/information.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/templates/pages-404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/templates/pages-500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/templates/pages-blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/templates/pages-sign-in.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-master/templates/pages-sign-up.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GUxOHd16voeVdrhj1VXMmwcfM2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c691e782-bde1-49e8-ac50-f8badb0cb830" name="Changes" comment="" />
+      <created>1666456929669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666456929669</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
